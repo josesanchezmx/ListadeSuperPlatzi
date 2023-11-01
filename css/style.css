@@ -14,7 +14,7 @@ body {
 }
 
 /* Estilos para el encabezado y el título */
-nav, nav h1 {
+nav, nav h1, h4 {
     text-align: center; /* Centra el texto */
     padding: 10px; /* Añade espacio alrededor del contenido */
     margin: 0; /* Elimina los márgenes predeterminados */
