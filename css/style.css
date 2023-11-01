@@ -80,6 +80,17 @@ img {
     border-radius: 10px;
 }
 
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    color: aliceblue;
+    background-color: #030303; /* Cambia el color de fondo según tus preferencias */
+    padding: 10px;
+}
+
+
 
 
 
