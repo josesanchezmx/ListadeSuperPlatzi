@@ -86,8 +86,8 @@ footer {
     width: 100%;
     text-align: center;
     color: aliceblue;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: #030303; /* Cambia el color de fondo según tus preferencias */
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #939090; /* Cambia el color de fondo según tus preferencias */
     padding: 10px;
 }
 
